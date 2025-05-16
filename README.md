@@ -1,3 +1,23 @@
+# My Favorite Modules were:
+
+## For R:
+
+1. [02_RStudio](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/02_RStudio)
+2. [04_Tidyverse](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/04_Tidyverse)
+3. [05_GGplot_Visualization](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/05_GGplot_Visualization)
+4. [13_Presenting Data](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/10_Presenting_Data)
+
+
+
+## Non-R related modules:
+
+1. [12 Programming_Basics](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/12_Programming_Basics)
+2. [06_Biofle Formats](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main/modules/06_BioFile_Formats)
+
+## Link to my website:
+
+[My GitHub Website](https://your-github-username.github.io/)
+
 # CM515-course-2025
 
 | Monday               | Wednesday            | Module | Description                        | Instructor         | Week |
